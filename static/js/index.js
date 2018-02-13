@@ -1,3 +1,5 @@
+//= require jquery
+
 $(document).ready(function(){
   $('div>div>div').each(function(id){
     $(this).css({
