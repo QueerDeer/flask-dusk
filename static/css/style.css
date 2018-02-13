@@ -13,11 +13,12 @@ body{
 div>div{
   display:block;
   height:34px;
+  margin-left: auto;
+  margin-right: auto;
 }
 div>div>div{
   width:30px;
   height:30px;
-  background-color:red;
   display:inline-block;
   float:right;
   margin:2px;
