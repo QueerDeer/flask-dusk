@@ -13,6 +13,6 @@ $(document).mousedown(function(){
       top: '0px',
       opacity: 0.9
     },1000);
-    $('#content').html('<br><br><br><br><br>I love you.<br>And I will always be with you.<br>You are my sun, my moon, my everything.');
+    $('#content').html('<br><br><br><br><br>I love you.<br>And I will always be with you.<br>You are my sun, my moon, my all in all.');
   })
 });
