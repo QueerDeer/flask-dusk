@@ -1,7 +1,7 @@
 //= require jquery
 
 $(document).mousedown(function(){
-  $('div>div>div').each(function(id){
+  $('div>div>div>div').each(function(id){
     $(this).css({
       position: 'relative',
       top: '-200px',

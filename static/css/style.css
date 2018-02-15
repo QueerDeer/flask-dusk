@@ -10,13 +10,13 @@ body{
   margin-right:-4px
 }
 
-div>div{
+div>div>div{
   display:block;
   height:34px;
   margin-left: auto;
   margin-right: auto;
 }
-div>div>div{
+div>div>div>div{
   width:30px;
   height:30px;
   display:inline-block;
