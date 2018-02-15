@@ -1,9 +1,14 @@
 body{
-    background: url(../img/RW0kAX9evv8.jpg) no-repeat center center;
+    background: url(../img/RW0kAX9evv8.jpg);
+    height:100%;
+    width:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
 }
 .left,.right{
   display:inline-block
