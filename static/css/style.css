@@ -1,13 +1,12 @@
 body{
-    background: url(../img/RW0kAX9evv8.jpg) no-repeat top center;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%
+    background: url(../img/RW0kAX9evv8.jpg) no-repeat center center;
+    position: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    min-height: 100%;
+    min-width: 100%;
 }
 .left,.right{
   display:inline-block
